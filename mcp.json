@@ -1,0 +1,15 @@
+{
+  "name": "mcp-capability-escrow-wire-4129",
+  "version": "1.0.0",
+  "description": "Zero-trust capability verification and escrow microservice for Model Context Protocol servers and autonomous agents.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
